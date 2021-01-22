@@ -1,0 +1,24 @@
+{
+  "name": "get-next-version-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kin9-0rz/get-next-version-cli.git",
+  "author": "kin9-0rz <kin9-0rz@hotmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "git",
+    "cli",
+    "git-flow",
+    "versioning",
+    "version",
+    "release"
+  ],
+  "bin": {
+    "get-next-version-cli": "index.js"
+  },
+  "dependencies": {
+    "angular": "^1.8.2",
+    "conventional-changelog-angular": "^5.0.12",
+    "conventional-recommended-bump": "^6.1.0"
+  }
+}
