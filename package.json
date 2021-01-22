@@ -1,6 +1,6 @@
 {
   "name": "get-next-version-cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "repository": "https://github.com/kin9-0rz/get-next-version-cli.git",
   "author": "kin9-0rz <kin9-0rz@hotmail.com>",
